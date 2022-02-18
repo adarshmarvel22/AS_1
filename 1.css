@@ -2,7 +2,7 @@
 
 /* For width smaller than 400px: */
 body {
-  background-image: url('1.jpg');
+  background-image: url('w.jpg');
   background-color: rgb(0, 0, 0);
   background-repeat: repeat;
 
@@ -80,7 +80,7 @@ nav{
   position: absolute;
   top: 50%;
   height: 3px;
-  background: #67df77;
+  background: #002cf0;
 }
 .count {
 
@@ -91,13 +91,13 @@ nav{
   font-weight: 300;
   font-size: 2.5em;
   margin-top: -1em;
-  color: #67df77;
+  color: #002cf0;
 }
 .progress-bar2 {
   position: absolute;
   top: 50%;
   height: 3px;
-  background: #67df77;
+  background: #002cf0;
 }
 
 .count2 {
@@ -108,7 +108,7 @@ nav{
   font-weight: 300;
   font-size: 2.5em;
   margin-top: -1.33em;
-  color: #67df77;
+  color: #002cf0;
 }
 
 
