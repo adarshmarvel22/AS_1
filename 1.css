@@ -713,9 +713,9 @@ span {
 }
 
 .card-2 {
-  background-color: crimson;
-  border-color: crimson;
-  box-shadow: rgba(220, 20, 60, 0.699) 0px 48px 100px 0px;
+  background-color: #050a0a;
+  border-color: #141e1e;
+  box-shadow: #00FFFF(220, 20, 60, 0.699) 0px 48px 100px 0px;
 }
 
 .showcase {
